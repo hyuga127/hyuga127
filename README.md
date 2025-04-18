@@ -30,7 +30,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hyuga127&theme=tokyonight&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=hyuga127&theme=tokyo-night)
 
 ## 📫 Contact Me
 - Email: tranhuyzaza@gmail.com

@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Huy Nguyen
+# 👋 Hello! I'm Huy Tran
 
 🎓 Final-year Software Engineering student  
 💻 Passionate about Java Spring Boot, React, and Mobile Development  

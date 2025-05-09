@@ -28,14 +28,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyuga127&layout=compact&theme=tokyonight)
 
-<details>
-  <summary>📈 GitHub Stats</summary>
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=huy123&theme=github-dark&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hyuga127&theme=github-dark&hide_border=false)](https://git.io/streak-stats)
 
-  ![Huy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyuga127&show_icons=true&theme=github_dark)
-
-</details>
 
 
 
